@@ -7,7 +7,7 @@ Desarrollador/a junior en formación, entusiasta del desarrollo web y con muchas
 🧠 Actualmente aprendiendo y practicando con:  
 **Next.js · Node.js · React · TypeScript · Laravel · PHP**
 
-🔍 Me interesa especialmente el desarrollo frontend y backend, y disfruto resolviendo problemas con código.
+🔍 Me interesa especialmente el desarrollo backend, y disfruto resolviendo problemas con código.
 
 ---
 
