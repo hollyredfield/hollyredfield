@@ -1,16 +1,24 @@
-## Hi there 👋
+![Banner](https://your-banner-url.com/banner.png)
 
-<!--
-**hollyredfield/hollyredfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Holly 👋
 
-Here are some ideas to get you started:
+Desarrollador/a junior en formación, entusiasta del desarrollo web y con muchas ganas de seguir aprendiendo y creciendo profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Actualmente aprendiendo y practicando con:  
+**Next.js · Node.js · React · TypeScript · Laravel · PHP**
+
+🔍 Me interesa especialmente el desarrollo frontend y backend, y disfruto resolviendo problemas con código.
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hollyredfield&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=hollyredfield&theme=tokyonight)
+
+---
+
+🔢 **Contador de visitas:**  
+![Visitas](https://komarev.com/ghpvc/?username=hollyredfield&color=green)
