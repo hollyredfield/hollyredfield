@@ -1,107 +1,159 @@
 <div align="center">
-  
-# 🚀 API Be The Rail - SimpleHash Integration
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="150" />
-
-[![Mantenimiento](https://img.shields.io/badge/Mantenimiento-Activo-green.svg)](https://github.com/user/repo)
-[![API](https://img.shields.io/badge/API-SimpleHash-blue.svg)](https://docs.simplehash.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://github.com/user/repo)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Holly+Redfield;Desarrollador+Multiplataforma;Amante+de+la+Tecnología" />
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=API+para+datos+NFT;Integración+SimpleHash;Análisis+de+colecciones;Métricas+en+tiempo+real&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
-## 💼 Perfil Profesional
-
-Desarrollador backend especializado en la creación de APIs para el ecosistema blockchain y NFT. Experiencia implementando integraciones con servicios externos como SimpleHash para el análisis y seguimiento de colecciones NFT en múltiples cadenas.
-
-> *"Si puedes hacer una API que hable con blockchain sin perder la cordura, puedes hacer cualquier cosa."*
-
-## 🛠️ Habilidades Técnicas
 
 <div align="center">
-
-| Frontend | Backend | Blockchain | Herramientas |
-|----------|---------|------------|--------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![NFT](https://img.shields.io/badge/-NFT-0081C9?style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) | ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) | ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-
+  <img src="https://i.imgur.com/QvOgNMh.gif" width="100%" height="4px"/>
 </div>
 
-## 🏆 Experiencia en Proyectos
+# 💻 Perfil Técnico
 
-### API Be The Rail - SimpleHash Integration
-> *Donde los datos NFT vienen a bailar*
+<p align="justify">
+  Soy un desarrollador con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), con una trayectoria notable en la creación de soluciones tecnológicas que abarcan desde aplicaciones Java robustas hasta sistemas web interactivos. Me caracterizo por combinar fundamentos técnicos sólidos con una capacidad analítica para resolver problemas complejos.
+</p>
 
-Desarrollé una API robusta para obtener y analizar datos de colecciones NFT utilizando la API SimpleHash. Esta integración permite:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php" height="60"/>
+</div>
 
-- 📊 **Análisis de colecciones NFT** por cadena con filtrado y paginación
-- 💰 **Seguimiento de precios** de colecciones en tiempo real
-- 🔝 **Rankings de colecciones** basados en volumen y actividad
-- 📈 **Estadísticas históricas** de precios mínimos
-- 🔍 **Búsqueda específica** por contrato y ID de colección
+## 🚀 Competencias Técnicas
 
-## 💻 Showcase de Funcionalidades
+<table>
+  <tr>
+    <td>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47ohaddgg2hl0b3wa3j198tkhf6tbk10i3x5qgzfd8&rid=giphy.gif" width="30px"> <strong>Lenguajes</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media0.giphy.com/media/juua9i2c2fA0AIp7iq/giphy.gif?cid=ecf05e47s3cw0ymwcndsmpnckxitlpm3zqnn6mdlq1q39z3i&ep=v1_stickers_search&rid=giphy.gif" width="30px"> <strong>Tecnologías</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media1.giphy.com/media/YpwrFOofquWgHxEgut/giphy.gif" width="30px"> <strong>Métodos</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/POO-007396?style=for-the-badge">
+      <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge">
+      <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Web_Scraping-4285F4?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Full_Stack-00C7B7?style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
-```javascript
-// ¿Necesitas los mejores NFTs del mercado?
-// Un simple GET y voilà!
-GET /nft/collections/top?chain=ethereum
+## 📂 Proyectos Destacados
 
-// ¿Quieres el historial de precios de tu colección favorita?
-// Tenemos los datos que necesitas
-GET /nft/collections/:id/floor-price-history
-```
+<details>
+<summary><strong>🌐 Desarrollo Web</strong></summary>
+<br>
 
-## 🔥 Características Destacadas
+### 📊 Visualizador de Encuestas
+<p align="justify">Sistema interactivo que transforma datos JSON de encuestas en visualizaciones gráficas mediante Chart.js, permitiendo análisis intuitivo de resultados con gráficos tipo donut.</p>
+
+### ☁️ MeteoBlue Weather App
+<p align="justify">Aplicación meteorológica que consume la API de MeteoBlue para presentar datos climatológicos estructurados (temperatura, humedad, viento) con una interfaz web elegante y accesible.</p>
+
+### 🔍 Sistema de Consulta para Asesoría Energética
+<p align="justify">Aplicación web full-stack para consultas y análisis de datos energéticos con un frontend robusto desarrollado con HTML, CSS y JavaScript.</p>
+</details>
+
+<details>
+<summary><strong>🤖 Automatización</strong></summary>
+<br>
+
+### 🕸️ Web Scraping con Playwright
+<p align="justify">Solución avanzada para extracción automatizada de datos web con capacidad adaptativa a diferentes estructuras de páginas, manejo de errores y exportación estructurada a CSV.</p>
+</details>
+
+<details>
+<summary><strong>📱 Aplicaciones</strong></summary>
+<br>
+
+### 💰 Sistema Bancario con Persistencia
+<p align="justify">Implementación en Java de un sistema de gestión financiera con almacenamiento permanente de datos, arquitectura multicapa y operaciones transaccionales seguras.</p>
+
+### 📚 Biblioteca Virtual
+<p align="justify">Sistema cliente-servidor para búsqueda y gestión de libros con interfaz gráfica Java y comunicación entre procesos.</p>
+</details>
+
+<div align="center">
+  <img src="https://i.imgur.com/QvOgNMh.gif" width="100%" height="4px"/>
+</div>
+
+## 📊 Distribución Tecnológica
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Lenguajes más utilizados" />
+</div>
+
+## 🎓 Formación 
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🚄</td>
-      <td><b>Alto Rendimiento</b> - Optimizado para respuestas rápidas incluso con grandes conjuntos de datos</td>
-    </tr>
-    <tr>
-      <td align="center">⚡</td>
-      <td><b>Tiempo Real</b> - Datos actualizados de las principales plataformas NFT</td>
-    </tr>
-    <tr>
-      <td align="center">🔐</td>
-      <td><b>Seguro</b> - Implementación segura de claves API y autenticación</td>
-    </tr>
-    <tr>
-      <td align="center">📱</td>
-      <td><b>Versatilidad</b> - Soporte para múltiples cadenas blockchain</td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="30px"/>
+      </td>
+      <td>
+        Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+      </td>
     </tr>
   </table>
 </div>
 
-## 📬 Contacto
+## 🌟 Enfoque Metodológico
 
-<p align="center">
-  <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<p align="justify">
+  Mi aproximación al desarrollo combina el rigor metodológico con la creatividad. Mientras algunos siguen discutiendo si las tabulaciones son mejores que los espacios, yo ya he desplegado tres aplicaciones.
+</p>
+
+<p align="justify">
+  No soy de los que recitan patrones de diseño como si fueran mantras; prefiero demostrar su aplicación práctica resolviendo problemas reales. Mi código no solo funciona, evoluciona.
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tuusuario/count.svg" alt="Contador de visitantes" />
-  <p>👆 Este contador no miente tanto como las promesas de los ICOs</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita aleatoria"/>
 </div>
 
----
+## 📫 Contacto
 
-<p align="center">
-  <i>Si has llegado hasta aquí, definitivamente deberías contratarme.</i><br>
-  <i>O al menos invitarme a un café. ☕</i>
-</p>
+<div align="center">
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tuusuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hollyredfield">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hollyredfield&label=Visitas+al+perfil&color=brightgreen" alt="Contador de visitas"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
