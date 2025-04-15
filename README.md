@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Desarrolladora multiplataforma con una habilidad especial para sobrevivir a frameworks, APIs y deadlines imposibles. Experta en transformar requisitos ambiguos en soluciones funcionales y en encontrar bugs donde nadie más los ve (ni los quiere ver).
+Desarrollador multiplataforma con una habilidad especial para sobrevivir a frameworks, APIs y deadlines imposibles. Experta en transformar requisitos ambiguos en soluciones funcionales y en encontrar bugs donde nadie más los ve (ni los quiere ver).
 
 ---
 
