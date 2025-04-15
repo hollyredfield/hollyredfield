@@ -1,77 +1,76 @@
-<!-- Banner animado (puedes cambiar por uno tuyo si quieres) -->
-<img src="https://readme-typing-svg.demolab.com/?lines=¡Hola%2C+soy+Holly!;Desarrolladora+en+proceso+de+transformación+digital;Fan+del+backend,+frontend+y+scraping&center=true&width=1000&height=80&color=60FFDD&vCenter=true&size=26&pause=1000" />
+<!-- Banner personalizado (puedes cambiar el link por uno tuyo o te genero uno) -->
+![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Holly%20Redfield&fontSize=35&fontAlign=50&fontColor=fff)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="100px" height="100px">
-</div>
-
----
-
-## 👾 ¿Quién soy yo?
-
-Curioso por naturaleza. Escribo código que a veces funciona a la primera, otras a la tercera... ¡pero siempre acaba funcionando!  
-Me gusta trastear con datos, automatizar cosas, construir interfaces útiles y descubrir cómo encajan todas las piezas de una app.  
-Aprendí mucho cacharreando con proyectos académicos (sí, esos HITOS) y me fui lanzando a crear cosas más prácticas y potentes.
+# 👋 ¡Hola! Soy Holly
+Programador/a en construcción constante. He pasado por mil commits, errores legendarios y alguna que otra refactorización que terminó bien (milagrosamente).
 
 ---
 
-### 🧰 Tecnologías con las que me llevo bien:
+### 🧠 Habilidades técnicas
 
-> ✨ *Tú trae la idea, que yo la codeo... o lo intento con dignidad* 😅
-
-- ⚙️ Java (POO, colecciones, ficheros, arquitectura por capas)
-- 🌐 HTML, CSS, JavaScript
-- 🤖 Playwright + Web Scraping
-- 🐍 Python para automatizar cosas que me dan pereza
-- 💻 APIs REST, servicios web y bases de datos MySQL
-- 📊 Visualización con Chart.js y Jupyter Notebook
-- 🧠 Algo de PHP, Laravel y Hack
-- 📱 Un poco de Android Studio por si hay que compilar algo que suene *"bip bop"*
-
----
-
-### 🔍 Proyectos con los que me he peleado... y ganado 🏆
-
-- 🤯 **Web Scraper avanzado**: Automatiza todo, exporta bonito y hasta se adapta a distintas webs (Playwright para president@).
-- 🏦 **Sistema de cuentas bancarias en Java** con persistencia, operaciones CRUD y esa OOP que nunca se va.
-- ⚡ **App de consulta energética**: una web para navegar datos de consumo sin electrocutarse con el CSS.
-- 📬 **API de reservas con envío de correos**: sí, hice backend con JavaScript sin perder el sueño.
-- 🌦️ **MeteoBlue App**: consulta climática real usando una API externa, con su UI y todo.
-- 📊 **Visualizador de encuestas**: donut charts everywhere para mostrar lo que piensa la gente (o al menos la que contesta).
+- 🟨 Java (POO, colecciones, persistencia, cliente-servidor)
+- 🟦 JavaScript (frontend, scraping con Playwright, APIs REST)
+- 🐍 Python (automatización, ERP/CRM, análisis con Jupyter)
+- 🐘 PHP / Hack (MVC y cosas que no volveré a hacer igual otra vez)
+- 🗃️ MySQL (ERD, consultas, almacenamiento persistente)
+- 🌐 HTML5 + CSS3 (frontend responsive, Chart.js, Bootstrap)
+- 🧪 Jupyter Notebooks (análisis de datos, prototipado)
+- ⚙️ Arquitecturas multicapa, modularidad, separación de responsabilidades
+- 🤖 Automatización web, scraping adaptable y exportación estructurada
 
 ---
 
-### 📈 Mis estadísticas de batalla en GitHub:
+### 🧩 Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hollyredfield&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com/?user=hollyredfield&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- **🔍 Web Scraping con Playwright (JS)**  
+  Extracción de datos de páginas dispares, manejo de errores, exportación a CSV.  
+  Más robusto que muchos e-commerce 😎
 
----
+- **📊 Visualizador de Encuestas (JS + Chart.js)**  
+  Transforma JSON en gráficos donuts para resultados de encuestas. Un poco de frontend, un poco de azúcar visual.
 
-### 🤖 Cosas automáticas que me flipan
+- **📈 MeteoBlue Weather App (JS)**  
+  Consume API climática y muestra info ordenada (sin dramas meteorológicos). Ideal para ver si vas a picar código bajo la lluvia.
 
-- Que el código haga cosas solo 💻🪄  
-- Que los datos se transformen solitos 🧙‍♀️  
-- Que un script ahorre horas de clics y aburrimiento 😴➡️🔥
+- **🏦 App bancaria con persistencia (Java)**  
+  Gestión de cuentas, operaciones y datos almacenados como debe ser: ordenados y encapsulados.
 
----
+- **📬 API de reservas + correos (PHP/JS)**  
+  Backend funcional con mails automatizados. ¿Quién no quiere que un robot gestione sus citas?
 
-### 🚀 ¿Qué sigue?
-
-Seguir aprendiendo, crear cosas útiles (aunque sea para mí), colaborar con gente maja y escribir líneas de código que me hagan sentir orgullosa... o al menos no querer lanzar el portátil por la ventana.
-
----
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Joke of the day" />
-</div>
+- **⚡ Asesoría energética (HTML/CSS/JS)**  
+  Consulta de datos sector energético. Full-stack puro y honesto.
 
 ---
 
-<!-- Visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hollyredfield&color=blue" alt="Visitors" />
-</p>
+### 🧮 Stats (porque lo visual importa)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hollyredfield&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=compact&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=hollyredfield&theme=radical&hide_border=true)
+
+---
+
+### 🧬 Filosofía de código
+
+> "Divide y vencerás... o al menos, entenderás dónde está el bug."
+
+Prefiero código legible a código críptico, los commits pequeños y los logs con sentido. No creo en las "soluciones mágicas", pero sí en los `console.log()`.
+
+---
+
+### 🧑‍💻 Actualmente...
+
+- Terminando el ciclo DAM (Desarrollo de Aplicaciones Multiplataforma)
+- Explorando nuevas APIs y tecnologías back-end
+- Descubriendo que el CSS a veces te quiere, a veces no
+
+---
+
+### 🔢 Contador de visitas:
+![Visitas](https://komarev.com/ghpvc/?username=hollyredfield&label=visitas+al+perfil&color=green)
+
+---
+
+<!-- Footer con estilo -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
