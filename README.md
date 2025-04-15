@@ -109,7 +109,17 @@ const hollyPerfil = {
 
 ### Distribución de Tecnologías
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Mi%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=12&line1=javascript,JavaScript,F7DF1E;react,React,61DAFB;docker,Docker,2496ED;linux,Linux,FCC624;&line2=python,Python,3776AB;java,Java,ED8B00;bash,Terminal,4EAA25;mysql,Databases,4479A1;" alt="My Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Mi%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=github_dark&gap=12&line1=javascript,JavaScript,F7DF1E;react,React,61DAFB;docker,Docker,2496ED;linux,Linux,FCC624;&line2=python,Python,3776AB;java,Java,ED8B00;bash,Terminal,4EAA25;mysql,Databases,4479A1;&line3=angular,Angular,DD0031;typescript,TypeScript,3178C6;csharp,C%23,239120;kotlin,Kotlin,7F52FF;" alt="My Tech Stack" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin: 10px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0));">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=pie&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+  </div>
 </div>
 
 <div align="center">
@@ -137,14 +147,156 @@ const hollyPerfil = {
 
 </div>
 
+<!-- Tabla adicional para los nuevos elementos -->
+<div align="center">
+
+| Frameworks & Libraries | DevOps & Cloud |
+|-------------------|----------------------|
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Proton](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
+<details>
+  <summary><b>🔥 Ver más habilidades (y carencias) ↴</b></summary>
+
+  ### 🧠 Paradigmas y metodologías
+  - **Programación Orientada a Objetos**: Porque los objetos son amigos, no comida
+  - **Arquitectura MVC**: Separando responsabilidades como un profesional
+  - **RESTful APIs**: Comunicando servicios como si fueran personas civilizadas
+  - **Desarrollo Ágil**: O lo que sea que hagamos cuando el deadline se acerca y el pánico aumenta
+  - **Pentesting**: Solo como hobby, no lo suficiente para hackear la NASA (todavía)
+
+  ### 🖥️ Sistemas operativos
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  - ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
+  - ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) (cuando no hay más remedio)
+
+  ### 🛠️ Herramientas adicionales
+  - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  - ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) (porque salir de Vim es el verdadero reto)
+  - ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  
+  ### 📊 Distribución porcentual por categoría
+  - **Desarrollo backend**: ~50% (donde realmente disfruto)
+  - **Sistemas Linux y redes**: ~35% (mi zona de confort)
+  - **Cybersecurity y pentesting**: ~14% (hobby que se me da bastante bien)
+  - **Frontend**: ~1% (y probablemente sea un botón mal centrado)
+</details>
+
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Proyectos Destacados
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/216521311-d4c1022e-db35-45fb-a56d-dd7c87530d65.gif" width="150">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Proyectos+que+no+han+destruido+mi+PC...;...todav%C3%ADa" />
+</div>
+
+<!-- Proyectos con Showcase Visual -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔒 Web Scraping con Playwright</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/web-scraper-project" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZwcG11eWZsZWtjOXBvcnRydDF4cXQ1MnRmaDNnMGl0YXJzOXI5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="300" alt="Web Scraping Project"/>
+          </a>
+          <p>
+            <strong>Extracción de datos web a lo ninja</strong> - Automatización avanzada para recolectar datos estructurados de diversas fuentes web.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Sistema de API REST</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/api-rest-project" target="_blank">
+            <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300" alt="API REST Project"/>
+          </a>
+          <p>
+            <strong>Servicios web con más endpoints que usuarios</strong> - Desarrollo de APIs RESTful con arquitectura escalable y documentación Swagger.
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💰 Sistema Bancario Java</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/bank-system-java" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRlYmdpaXYzaGQ0M3Y0dzZ6ZWp2eGZqcTg1eXMxYWcwdWUzZWx3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LdOyjZ7io5Msw/giphy.gif" width="300" alt="Java Banking System"/>
+          </a>
+          <p>
+            <strong>Gestión financiera multicapa</strong> - Implementación robusta donde solo los logs de errores son consistentes.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 Biblioteca Virtual</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/virtual-library" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrZWVhb2U0dWI2ZHNmaDl5YzMybTh4eGxvcjVjcmN4aHRoOTE1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6eQYX4B4OGQs8/giphy.gif" width="300" alt="Virtual Library"/>
+          </a>
+          <p>
+            <strong>Cliente-servidor para gestión de libros</strong> - Porque las librerías físicas son muy mainstream.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔒 Hobbies en Cybersecurity & Hacking
+- **Entornos de Pentesting**: Configuración de Kali Linux y Parrot OS cuando debería estar durmiendo.
+- **CTFs**: Resolución de retos en HackTheBox mientras mi familia piensa que estoy hackeando el Pentágono.
+- **Análisis de Vulnerabilidades**: Identificación de fallos de seguridad... excepto en mi propio código.
+- **Laboratorios Virtualizados**: Creación de redes en VMware que nunca verán la luz del día.
+
+### 🐧 Linux & Sistemas
+- **Administración de Servidores Linux**: Configuración de servidores que solo yo entiendo cómo funcionan.
+- **Containerización con Docker**: Empaquetando aplicaciones para que funcionen en todas partes (excepto en producción).
+- **Redes Cisco**: Configuración de la infraestructura donde luego pierdo la conexión.
+- **Automatización de Sistemas**: Scripts para gestionar entornos Linux y ahorrarme trabajo (que luego gasto depurando los scripts).
+
+### 🌐 Desarrollo Backend
+- **Web Scraping con Playwright**: Extracción de datos web a lo ninja, porque copiar y pegar es para débiles.
+- **API REST**: Desarrollo de servicios web con más endpoints que usuarios.
+- **Sistema Bancario Java**: Gestión financiera con arquitectura multicapa donde la única capa que funciona es la de errores.
+- **Sistemas de Reporting**: Generación automática de informes que nadie lee pero todos piden.
+
+### 💾 Persistencia y Gestión de Datos
+- **Biblioteca Virtual**: Cliente-servidor para gestión de libros, porque las librerías físicas son muy mainstream.
+- **Sistemas de Gestión Empresarial**: Implementación de sistemas que sustituyen al Excel que todos seguirán usando.
+- **Gestión de Inventarios con Java Swing**: Interfaces que parecen de los 90, pero hey, funcionan.
+
+<details>
+  <summary><b>👾 Ver mi laboratorio secreto de experimentos...</b></summary>
+
+  ### 🧪 Experimentos y laboratorios
+  - **Infraestructura personal**: Con más cables y servidores de los que cualquier persona normal debería tener.
+  - **Clústeres de Raspberry Pi**: Porque un ordenador no es suficiente para calentar la habitación en invierno.
+  - **Redes segmentadas**: Para separar mis dispositivos de los que hackeo "con fines educativos".
+  
+  ### 🔧 Herramientas que he intentado dominar
+  - **Análisis de Memoria**: Volatility y amigos, para cuando necesitas saber qué estaba haciendo ese malware.
+  - **Escaneo de Redes**: NMAP y similares, porque conocer tu red es el primer paso para perder horas de tu vida.
+  - **Desarrollo de Scripts**: Automatizando tareas para ganar tiempo que luego pierdo programando la automatización.
+</details>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 <!-- Separador animado -->
@@ -160,7 +312,7 @@ const hollyPerfil = {
   <h3 style="margin: 0;">Dogmas Inquebrantables del Código</h3>
 </div>
 
-<!-- Añadido diagrama Mermaid de ruta de desarrollo -->
+<!-- Añadido diagrama Mermaid de ruta de desarrollo mejorado -->
 ```mermaid
 graph TD;
     A[Backend Foundations] --> B[Linux Mastery];
@@ -198,11 +350,32 @@ graph TD;
   <p><i>💡 Tip de desarrollador: "Si funciona en desarrollo, funcionará en producción... dijo nadie nunca."</i></p>
 </div>
 
+- **Backend sobre Frontend**: Porque las APIs bien diseñadas son más bonitas que cualquier interfaz gráfica.
+- **Terminal sobre GUI**: La línea de comandos es mi Picasso, donde un simple comando hace magia.
+- **Vim sobre Nano**: Porque salir de Vim es un logro que pongo en mi currículum.
+- **80 caracteres por línea**: Si tu código necesita más, probablemente necesites refactorizar (o comprar un monitor más grande).
+- **Tabs vs Spaces**: Un tema sobre el que he perdido amistades y relaciones.
+- **Git sobre SVN**: Porque los commit son como checkpoints en un videojuego difícil.
+- **Linux sobre Windows**: Windows es solo para jugar; el trabajo serio se hace en una terminal negra.
+- **Cafe > Energética > Té > Agua > Dormir**: Mi pirámide nutricional para programar.
+
+<details>
+  <summary><b>🧙‍♂️ Secretos del oficio</b></summary>
+
+  - **Desarrollo Incremental**: Hacer pequeños cambios y probar, porque debuggear 1000 líneas de una vez es para masoquistas.
+  - **Prototipado Rápido**: Para tener algo funcional antes de que el cliente cambie de opinión por decimoquinta vez.
+  - **Desarrollo Basado en Componentes**: Porque reutilizar código es casi tan satisfactorio como resolver un bug imposible.
+  - **Integración Continua**: Para que el código se rompa automáticamente, sin necesidad de hacerlo yo manualmente.
+  - **Seguridad desde el Diseño**: Porque añadir seguridad al final es como poner un candado a una puerta ya forzada.
+  - **Comentarios en el código**: Al principio escribes código y comentarios; con experiencia, escribes código que no necesita comentarios (pero los pones igual porque sabes que lo olvidarás todo en 3 días).
+</details>
+
 <!-- Separador animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Contacto
 
+<!-- Mejorado el diseño de contacto con layout de tabla -->
 <div align="center">
   <table width="100%">
     <tr>
