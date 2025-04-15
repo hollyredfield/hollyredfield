@@ -22,8 +22,8 @@
 
 ```typescript
 const holly = {
-  rol: "Desarrolladora Multiplataforma",
-  experiencia: "Transformadora de café en código",
+  rol: "Desarrollador Multiplataforma",
+  experiencia: "Transformador de café en código",
   especialidades: ["Web", "Automatización", "Análisis de Datos", "Desarrollo Mobile"],
   pasión: "Crear soluciones elegantes para problemas complejos",
   superpoder: "Encontrar bugs donde nadie más los ve (ni los quiere ver)"
