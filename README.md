@@ -10,6 +10,9 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
 
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://img.shields.io/badge/Perfil-Activo-success?style=for-the-badge&labelColor=black&logo=checkmarx&logoColor=white">
   <img src="https://img.shields.io/badge/Café_Consumido-∞-brown?style=for-the-badge&labelColor=black&logo=buy-me-a-coffee&logoColor=white">
@@ -69,13 +72,39 @@ const holly = {
   <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" width="120px">
 </div>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Habilidades Técnicas
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
+
+```javascript
+// developer.js - Un vistazo a mi perfil técnico
+const hollyPerfil = {
+    code: ["Java", "Python", "JavaScript", "PHP", "Bash", "HTML/CSS"],
+    askMeAbout: ["backend", "linux", "cyberseguridad", "automatización", "café ☕"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "VanillaJS", "Vite"],
+            css: ["Tailwind", "Bootstrap", "CSS3"]
+        },
+        backEnd: {
+            java: ["Spring Boot", "JPA/Hibernate"],
+            python: ["Flask", "Django", "Automations"],
+            js: ["Node.js", "Express"]
+        },
+        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        security: ["Kali Linux", "Pentesting", "OWASP", "Reverse Engineering"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        tools: ["Git", "Bash", "Vim", "Wireshark", "Metasploit"]
+    },
+    currentlyLearning: ["Microservicios", "Terraform", "AWS", "Go"],
+    funFact: "Las dos reglas para el éxito en programación: 1) Nunca reveles todo lo que sabes, 2) ..."
+};
+```
 
 ### Distribución de Tecnologías
 <div align="center">
@@ -97,6 +126,15 @@ const holly = {
 | Lenguajes & Backend | Sistemas & Redes | Hobbies Técnicos | Herramientas & Otros |
 |-------------------|-----------------------|----------------|----------------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot_OS-5CB8B0?style=for-the-badge&logo=linux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+
+</div>
+
+<!-- Nuevas tecnologías añadidas -->
+<div align="center">
+
+| Frontend | Herramientas de Desarrollo | 
+|-------------------|----------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
@@ -135,7 +173,8 @@ const holly = {
   - **Frontend**: ~1% (y probablemente sea un botón mal centrado)
 </details>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Estadísticas en Tiempo Real
 
@@ -170,7 +209,8 @@ const holly = {
   <img src="https://github-profile-trophy.vercel.app/?username=hollyredfield&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" width="780px"/>
 </div>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Experiencia Destacada
 
@@ -186,11 +226,59 @@ const holly = {
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 
-### 🔒 Hobbies en Cybersecurity & Hacking
-- **Entornos de Pentesting**: Configuración de Kali Linux y Parrot OS cuando debería estar durmiendo.
-- **CTFs**: Resolución de retos en HackTheBox mientras mi familia piensa que estoy hackeando el Pentágono.
-- **Análisis de Vulnerabilidades**: Identificación de fallos de seguridad... excepto en mi propio código.
-- **Laboratorios Virtualizados**: Creación de redes en VMware que nunca verán la luz del día.
+<!-- Mejora de proyectos con showcase visual -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔒 Web Scraping con Playwright</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/web-scraper-project" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZwcG11eWZsZWtjOXBvcnRydDF4cXQ1MnRmaDNnMGl0YXJzOXI5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="300" alt="Web Scraping Project"/>
+          </a>
+          <p>
+            <strong>Extracción de datos web a lo ninja</strong> - Automatización avanzada para recolectar datos estructurados de diversas fuentes web.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Sistema de API REST</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/api-rest-project" target="_blank">
+            <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300" alt="API REST Project"/>
+          </a>
+          <p>
+            <strong>Servicios web con más endpoints que usuarios</strong> - Desarrollo de APIs RESTful con arquitectura escalable y documentación Swagger.
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💰 Sistema Bancario Java</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/bank-system-java" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRlYmdpaXYzaGQ0M3Y0dzZ6ZWp2eGZqcTg1eXMxYWcwdWUzZWx3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LdOyjZ7io5Msw/giphy.gif" width="300" alt="Java Banking System"/>
+          </a>
+          <p>
+            <strong>Gestión financiera multicapa</strong> - Implementación robusta donde solo los logs de errores son consistentes.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 Biblioteca Virtual</h3>
+        <div align="center">
+          <a href="https://github.com/hollyredfield/virtual-library" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrZWVhb2U0dWI2ZHNmaDl5YzMybTh4eGxvcjVjcmN4aHRoOTE1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6eQYX4B4OGQs8/giphy.gif" width="300" alt="Virtual Library"/>
+          </a>
+          <p>
+            <strong>Cliente-servidor para gestión de libros</strong> - Porque las librerías físicas son muy mainstream.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🐧 Linux & Sistemas
 - **Administración de Servidores Linux**: Configuración de servidores que solo yo entiendo cómo funcionan.
@@ -227,7 +315,8 @@ const holly = {
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 Formación
 
@@ -273,7 +362,8 @@ const holly = {
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Metodologías y Filosofía
 
@@ -283,6 +373,35 @@ const holly = {
 
 <div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f7797d); margin: 20px auto; border-radius: 10px; padding: 20px; color: white; width: 80%; text-align: center;">
   <h3 style="margin: 0;">Dogmas Inquebrantables del Código</h3>
+</div>
+
+<!-- Añadido diagrama Mermaid de ruta de desarrollo -->
+```mermaid
+graph TD;
+    A[Backend Foundations] --> B[Linux Mastery];
+    A --> C[Networking & Security];
+    B --> D[Server Administration];
+    C --> E[Ethical Hacking];
+    D --> F[DevOps & Automation];
+    E --> F;
+    F --> G[Cloud Infrastructure];
+    F --> H[Microservices];
+    G --> I[Future: AI Integration];
+    H --> I;
+    
+    style A fill:#F700FF,stroke:#333,stroke-width:2px,color:white
+    style B fill:#F700FF,stroke:#333,stroke-width:2px,color:white
+    style C fill:#F700FF,stroke:#333,stroke-width:2px,color:white
+    style D fill:#6C63FF,stroke:#333,stroke-width:2px,color:white
+    style E fill:#6C63FF,stroke:#333,stroke-width:2px,color:white
+    style F fill:#6C63FF,stroke:#333,stroke-width:2px,color:white
+    style G fill:#F7797D,stroke:#333,stroke-width:2px,color:white
+    style H fill:#F7797D,stroke:#333,stroke-width:2px,color:white
+    style I fill:#F7797D,stroke:#333,stroke-width:2px,color:white
+```
+
+<div align="center">
+  <p><i>💡 Tip de desarrollador: "Si funciona en desarrollo, funcionará en producción... dijo nadie nunca."</i></p>
 </div>
 
 - **Backend sobre Frontend**: Porque las APIs bien diseñadas son más bonitas que cualquier interfaz gráfica.
@@ -305,25 +424,35 @@ const holly = {
   - **Comentarios en el código**: Al principio escribes código y comentarios; con experiencia, escribes código que no necesita comentarios (pero los pones igual porque sabes que lo olvidarás todo en 3 días).
 </details>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Contacto
 
+<!-- Mejorado el diseño de contacto con layout de tabla -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="400">
-  <p>¿Quieres hablar de código, Linux o por qué el café es mejor que el sueño? ¡Encuéntrame aquí!</p>
-</div>
-
-<div align="center">
-  <a href="mailto:tucorreo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/tuusuario/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hollyredfield">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300">
+      </td>
+      <td width="50%">
+        <h3>¡Conectemos!</h3>
+        <p>¿Quieres hablar de código, Linux o por qué el café es mejor que el sueño? ¿Tienes un proyecto interesante o quieres colaborar? ¡No dudes en contactarme!</p>
+        <div align="center">
+          <a href="mailto:tucorreo@ejemplo.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          </a>
+          <a href="https://www.linkedin.com/in/tuusuario/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <a href="https://github.com/hollyredfield">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -332,13 +461,17 @@ const holly = {
   </a>
 </div>
 
----
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300">
 </div>
 
+<!-- Contador de visitas mejorado -->
 <div align="center">
+  <h3>👁️ Visitas al Perfil</h3>
+  <img src="https://profile-counter.glitch.me/hollyredfield/count.svg" />
   <img src="https://komarev.com/ghpvc/?username=hollyredfield&label=Visitas+al+perfil&color=brightgreen&style=for-the-badge" alt="Contador de visitas"/>
 </div>
 
