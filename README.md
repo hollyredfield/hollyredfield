@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrolladora+Multiplataforma;Java%2C+Python%2C+JavaScript%2C+Web%2C+Automatizaci%C3%B3n+y+m%C3%A1s;El+arte+de+convertir+caf%C3%A9+en+c%C3%B3digo+%F0%9F%8D%B5" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java%2C+Python%2C+JavaScript%2C+Web%2C+Automatizaci%C3%B3n+y+m%C3%A1s;El+arte+de+convertir+caf%C3%A9+en+c%C3%B3digo+%F0%9F%8D%B5" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://svg-banners.vercel.app/api?type=luminance&text1=Desarrolladora%20Multiplataforma&width=800&height=100" alt="Tech Banner" /></a>
+  <a href="#"><img src="https://svg-banners.vercel.app/api?type=luminance&text1=Desarrollador%20Multiplataforma&width=800&height=100" alt="Tech Banner" /></a>
 </div>
 
 # 💼 Currículum Técnico
@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px" height="200px" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(247, 0, 255, 0.4);"/>
 </div>
 
-## 👩‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
 <table>
 <tr>
@@ -32,8 +32,8 @@
 
 ```typescript
 const holly = {
-  rol: "Desarrolladora Multiplataforma",
-  experiencia: "Transformadora de café en código",
+  rol: "Desarrollador Multiplataforma",
+  experiencia: "Transformador de café en código",
   especialidades: ["Web", "Automatización", 
                  "Análisis de Datos", "Desarrollo Mobile"],
   pasión: "Crear soluciones elegantes para problemas complejos",
