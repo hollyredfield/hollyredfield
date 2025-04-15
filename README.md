@@ -223,7 +223,7 @@ const hollyPerfil = {
         <h3 align="center">🌐 Sistema de API REST</h3>
         <div align="center">
           <a href="https://github.com/hollyredfield/api-rest-project" target="_blank">
-            <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300" alt="API REST Project"/>
+            <img src="[https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)" width="300" alt="API REST Project"/>
           </a>
           <p>
             <strong>Servicios web con más endpoints que usuarios</strong> - Desarrollo de APIs RESTful con arquitectura escalable y documentación Swagger.
