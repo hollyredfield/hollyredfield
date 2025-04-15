@@ -147,16 +147,16 @@ const holly = {
   <p>Donde los números cuentan historias (o al menos, eso es lo que le digo a mi jefe)</p>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hollyredfield&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hollyredfield&theme=radical&hide_border=true" width="100%" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hollyredfield&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=hollyredfield&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/hollyredfield">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollyredfield&theme=radical" width="100%" alt="GitHub Activity Summary"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
