@@ -9,7 +9,7 @@
 
 ## 👾 ¿Quién soy yo?
 
-Curiosa por naturaleza. Escribo código que a veces funciona a la primera, otras a la tercera... ¡pero siempre acaba funcionando!  
+Curioso por naturaleza. Escribo código que a veces funciona a la primera, otras a la tercera... ¡pero siempre acaba funcionando!  
 Me gusta trastear con datos, automatizar cosas, construir interfaces útiles y descubrir cómo encajan todas las piezas de una app.  
 Aprendí mucho cacharreando con proyectos académicos (sí, esos HITOS) y me fui lanzando a crear cosas más prácticas y potentes.
 
