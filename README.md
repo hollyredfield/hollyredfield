@@ -220,70 +220,100 @@ graph TD
     style G fill:#FF00FF,stroke:#333,stroke-width:3px,color:#fff
 ```
 
----
-
-## 🌐 **CONNECT & COLLABORATE**
+### 💭 **Development Principles**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="400"/>
+  <p><i>💡 Tip de desarrollador: "Si funciona en desarrollo, funcionará en producción... dijo nadie nunca."</i></p>
 </div>
 
-<div align="center">
-  <h2>🚀 <strong>Let's Build Something Epic Together!</strong></h2>
-  <p><em>¿Tienes una idea loca? ¿Un proyecto desafiante? ¿O simplemente quieres hablar de código mientras tomamos café? ¡Conectemos!</em></p>
-</div>
+- **Backend sobre Frontend**: Porque las APIs bien diseñadas son más bonitas que cualquier interfaz gráfica.
+- **Terminal sobre GUI**: La línea de comandos es mi Picasso, donde un simple comando hace magia.
+- **Vim sobre Nano**: Porque salir de Vim es un logro que pongo en mi currículum.
+- **80 caracteres por línea**: Si tu código necesita más, probablemente necesite refactorizar (o comprar un monitor más grande).
+- **Tabs vs Spaces**: Un tema sobre el que he perdido amistades y relaciones.
+- **Git sobre SVN**: Porque los commit son como checkpoints en un videojuego difícil.
+- **Windows y Linux**: Uso ambos según el proyecto y la necesidad.
+- **Cafe > Energética > Té > Agua > Dormir**: Mi pirámide nutricional para programar.
+
+<details>
+  <summary><b>🧙‍♂️ Secretos del oficio</b></summary>
+
+- **Desarrollo Incremental**: Hacer pequeños cambios y probar, porque debuggear 1000 líneas de una vez es para masoquistas.
+- **Prototipado Rápido**: Para tener algo funcional antes de que el cliente cambie de opinión por decimoquinta vez.
+- **Desarrollo Basado en Componentes**: Porque reutilizar código es casi tan satisfactorio como resolver un bug imposible.
+- **Integración Continua**: Para que el código se rompa automáticamente, sin necesidad de hacerlo yo manualmente.
+- **Seguridad desde el Diseño**: Porque añadir seguridad al final es como poner un candado a una puerta ya forzada.
+- **Comentarios en el código**: Al principio escribes código y comentarios; con experiencia, escribes código que no necesita comentarios (pero los pones igual porque sabes que lo olvidarás todo en 3 días).
+
+</details>
+
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📬 Contacto Adicional
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/📧_Email-alexdesantiagovicente@gmail.com-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdesantiagovicente@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Álex_D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lex-d-4b454a374/)
-[![Discord](https://img.shields.io/badge/🎮_Discord-HollyRedfield%239412-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/HollyRedfield#9412)
-[![GitHub](https://img.shields.io/badge/⚡_GitHub-hollyredfield-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollyredfield)
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300">
+      </td>
+      <td width="50%">
+        <h3>¡Conectemos!</h3>
+        <p>¿Quieres hablar de código, Linux o por qué el café es mejor que el sueño? ¿Tienes un proyecto interesante o quieres colaborar? ¡No dudes en contactarme!</p>
+        <div align="center">
+          <a href="mailto:alexdesantiagovicente@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          </a>
+          <a href="https://discord.com/users/HollyRedField#9412">
+            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+          </a>
+          <a href="https://www.linkedin.com/in/%C3%A1lex-d-4b454a374/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <a href="https://github.com/hollyredfield">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <a href="https://github.com/hollyredfield?tab=repositories">
-    <img src="https://img.shields.io/badge/🗂️_Explore_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver_Todos_Los_Proyectos-4B275F?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </div>
 
----
-
-## 📊 **PROFILE ANALYTICS**
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>🔥 <strong>Battle Stats</strong></h3>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hollyredfield&label=Profile+Views&color=FF00FF&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/hollyredfield?label=Followers&style=for-the-badge&color=8A2BE2)
-  ![Stars](https://img.shields.io/github/stars/hollyredfield?label=Total+Stars&style=for-the-badge&color=4B0082)
-  
+  <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300">
+</div>
+
+<!-- Contador de visitas -->
+<div align="center">
+  <h3>👁️ Visitas al Perfil</h3>
+  <img src="https://profile-counter.glitch.me/hollyredfield/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=hollyredfield&label=Visitas+al+perfil&color=brightgreen&style=for-the-badge" alt="Contador de visitas"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hollyredfield&theme=radical&hide_border=true&stroke=FF00FF&background=0D1117&ring=8A2BE2&fire=FF1493&currStreakLabel=FFFFFF"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+  <p>¿Has llegado hasta aquí? ¡Mereces un café! ☕ Yo me tomaré otro mientras tanto.</p>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="Works on my machine" />
 </div>
 
 <div align="center">
-  <h2>☕ <strong>Thanks for Visiting!</strong></h2>
-  <p><em>Si has llegado hasta aquí, definitivamente mereces un café. ¡Yo me tomaré otro también! ☕</em></p>
-  
-  ![Powered by Coffee](https://img.shields.io/badge/⚡_Powered_by-Coffee-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-  ![Works on my machine](https://img.shields.io/badge/✅_Works-On_My_Machine-00FF00?style=for-the-badge)
-  ![Built with Love](https://img.shields.io/badge/💖_Built-with-Love_&_Caffeine-FF69B4?style=for-the-badge)
-  
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:8A2BE2,50:4B0082,75:FF1493,100:FF00FF&height=200&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,30&height=170&section=footer&animation=fadeIn"/>
 </div>
 
 ---
+
+<div align="center">
+  <sub><strong>🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House</strong></sub>
+</div>
 
