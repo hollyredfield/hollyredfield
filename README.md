@@ -11,14 +11,11 @@
 </div>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Perfil-Activo-success?style=for-the-badge&labelColor=black&logo=checkmarx&logoColor=white">
   <img src="https://img.shields.io/badge/Café_Consumido-∞-brown?style=for-the-badge&labelColor=black&logo=buy-me-a-coffee&logoColor=white">
-  <!-- Badge de CTFs eliminado por honestidad del perfil junior -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java%2C+Python%2C+Git%2C+Backend;El+arte+de+convertir+caf%C3%A9+en+c%C3%B3digo+%F0%9F%8D%B5;Transformando+cafe%C3%ADna+en+c%C3%B3digo+desde+tiempos+inmemoriales" />
 </p>
 
 <div align="center">
@@ -37,11 +34,6 @@
 
 ## 👨‍💻 Sobre mí
 
-<table>
-<tr>
-<td width="60%">
-<div style="text-align: center;">
-
 <p align="center">Desarrollador multiplataforma con curiosidad y ganas de aprender. Me centro en backend. Capaz de sobrevivir con solo una terminal y un editor de texto. La única vez que abrí Photoshop acabé formateando el ordenador... por si acaso. Me gusta transformar requisitos en soluciones funcionales y encontrar bugs donde nadie mira.</p>
 
 <div align="center">
@@ -49,7 +41,6 @@
 </div>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Habilidades Técnicas
@@ -63,23 +54,22 @@
 const hollyPerfil = {
   code: ["Java", "Python", "JavaScript", "Bash", "HTML/CSS"],
   askMeAbout: ["backend", "linux", "automatización", "café ☕"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "VanillaJS", "Vite", "Angular"],
-            css: ["Tailwind", "Bootstrap", "CSS3"]
-        },
+  technologies: {
+    frontEnd: {
+      js: ["React", "VanillaJS", "Vite", "Angular"],
+      css: ["Tailwind", "Bootstrap", "CSS3"]
+    },
     backEnd: {
       java: ["Spring Boot"],
       python: ["Flask", "Django"],
       js: ["Node.js"]
     },
-  devOps: ["Docker"],
-  // sección de seguridad eliminada para mantener un perfil honesto y junior
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "VS Code", "IntelliJ IDEA", "PyCharm", "NetBeans"]
-    },
+    devOps: ["Docker"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "VS Code", "IntelliJ IDEA", "PyCharm", "NetBeans"]
+  },
   currentlyLearning: ["Buenas prácticas", "Testing", "Docker"],
-    funFact: "Las dos reglas para el éxito en programación: 1) Nunca reveles todo lo que sabes, 2) ..."
+  funFact: "Las dos reglas para el éxito en programación: 1) Nunca reveles todo lo que sabes, 2) ..."
 };
 ```
 
@@ -93,44 +83,40 @@ const hollyPerfil = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin: 10px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0));">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=pie&theme=radical&hide_border=true" alt="Top Languages" width="300" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyredfield&layout=pie&theme=radical&hide_border=true" alt="Top Languages" width="300" />
 </div>
 
 <div align="center">
 
-| Lenguajes & Backend                                                                                                                                                                                                                                                                                                                                                                                             | Sistemas & Redes                                                                                                                                                                                                                                                                                                                                                                                                    | Hobbies Técnicos                                                                                                                                                                                                                                                                                                                                                                                                             | Herramientas & Otros                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) (avanzado) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (nivel medio) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white) |  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Lenguajes & Backend | Sistemas & Redes | Herramientas & Otros |
+| ------------------- | ---------------- | -------------------- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
 <!-- Nuevas tecnologías añadidas -->
-
 <div align="center">
 
-| Frontend                                                                                                                                                                                                                                                                                                                                                                                                            | Backend & Frameworks                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Frontend | Backend & Frameworks |
+| -------- | -------------------- |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 
 </div>
 
 <div align="center">
 
-| Lenguajes Adicionales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | IDEs & Herramientas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| — | ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) |
+| IDEs & Herramientas |
+| ------------------- |
+| ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) |
 
 </div>
 
 <!-- Tabla adicional para los nuevos elementos -->
-
 <div align="center">
 
-| Frameworks & Libraries                                                                                                                                                                                                                                                                                                                                                                                               | DevOps & Cloud                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frameworks & Libraries | DevOps & Cloud |
+| ---------------------- | -------------- |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
 </div>
@@ -150,7 +136,6 @@ const hollyPerfil = {
 - **Arquitectura MVC**: Separando responsabilidades como un profesional
 - **RESTful APIs**: Comunicando servicios como si fueran personas civilizadas
 - **Desarrollo Ágil**: O lo que sea que hagamos cuando el deadline se acerca y el pánico aumenta
-<!-- Línea de pentesting eliminada -->
 
 ### 🖥️ Sistemas operativos
 
@@ -162,19 +147,16 @@ const hollyPerfil = {
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 - ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) (porque salir de Vim es el verdadero reto)
-<!-- Wireshark eliminado -->
 
 ### 📊 Distribución porcentual por categoría
 
 - **Desarrollo backend**: ~50% (donde realmente disfruto)
 - **Sistemas Linux y redes**: ~35% (mi zona de confort)
-<!-- Porcentaje de ciberseguridad/pentesting eliminado -->
 - **Frontend**: ~1% (y probablemente sea un botón mal centrado)
 
 </details>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Proyectos Destacados
@@ -188,7 +170,6 @@ const hollyPerfil = {
 </div>
 
 <!-- Proyectos con Showcase Visual -->
-
 <div align="center">
   <table>
     <tr>
@@ -207,7 +188,7 @@ const hollyPerfil = {
         <h3 align="center">🌐 Sistema de API REST</h3>
         <div align="center">
           <a href="https://github.com/hollyredfield/api-rest-project" target="_blank">
-            <img src="[https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)" width="300" alt="API REST Project"/>
+            <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="300" alt="API REST Project"/>
           </a>
           <p>
             <strong>Servicios web con más endpoints que usuarios</strong> - Desarrollo de APIs RESTful con arquitectura escalable y documentación Swagger.
@@ -242,8 +223,6 @@ const hollyPerfil = {
   </table>
 </div>
 
-<!-- Sección de Cybersecurity & Hacking eliminada por petición -->
-
 ### 🐧 Sistemas y entorno
 
 - Windows (avanzado) y Linux (nivel medio)
@@ -275,7 +254,6 @@ const hollyPerfil = {
 
 ### 🔧 Herramientas que he intentado dominar
 
-- <!-- Herramientas de análisis avanzado eliminadas para mantener el enfoque junior -->
 - **Desarrollo de Scripts**: Automatizando tareas para ganar tiempo que luego pierdo programando la automatización.
 
 </details>
@@ -285,7 +263,6 @@ const hollyPerfil = {
 </div>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Metodologías y Filosofía
@@ -298,8 +275,7 @@ const hollyPerfil = {
   <h3 style="margin: 0;">Dogmas Inquebrantables del Código</h3>
 </div>
 
-<!-- Añadido diagrama Mermaid de ruta de desarrollo mejorado -->
-
+<!-- Diagrama Mermaid de ruta de desarrollo -->
 ```mermaid
 graph TD;
   A[Fundamentos de Backend] --> B[Linux (nivel medio)];
@@ -346,12 +322,9 @@ graph TD;
 </details>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Contacto
-
-<!-- Mejorado el diseño de contacto con layout de tabla -->
 
 <div align="center">
   <table width="100%">
@@ -385,15 +358,13 @@ graph TD;
 </div>
 
 <!-- Separador animado -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1ImTS/giphy.gif" width="300">
 </div>
 
-<!-- Contador de visitas mejorado -->
-
+<!-- Contador de visitas -->
 <div align="center">
   <h3>👁️ Visitas al Perfil</h3>
   <img src="https://profile-counter.glitch.me/hollyredfield/count.svg" />
@@ -411,7 +382,7 @@ graph TD;
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,30&height=170&section=footer&animation=fadeIn"/>
 </div>
 
-<!-- ======================= Descripción para LinkedIn (Junior) ======================= -->
+<!-- Descripción para LinkedIn (Junior) -->
 <div align="center">
   <div style="
     max-width: 840px;
@@ -425,6 +396,35 @@ graph TD;
     <h2 style="margin: 0 0 12px 0; text-align: center;">Descripción para LinkedIn</h2>
 
     <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      Programador de software junior recién salido de un Grado Superior. Java y Python al timón; las demás herramientas se suben a bordo cuando el proyecto lo pide. Me gusta convertir requisitos difusos en resultados medibles y, si es posible, en algo que no explote el viernes por la tarde.
+    </p>
+
+    <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      Trabajo con APIs: autenticación con tokens y cookies, paginación, límites de uso y reintentos con buen criterio para traer datos completos sin montar un drama. Después, esos datos pasan por limpieza y salen ordenaditos en CSV y JSON, listos para análisis o para que Excel no se queje (demasiado).
+    </p>
+
+    <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      He creado un plugin para WordPress con opciones claras, pequeños hooks y un cron que importa datos mientras yo estoy durmiendo (o tomando café). Minimalista, funcional y sin fuegos artificiales innecesarios.
+    </p>
+
+    <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      También hago scraping orientado a análisis de estructuras web: selectores robustos, navegación cuando hace falta y cabeza fría cuando el HTML decide ser creativo. El objetivo es convertir el caos en información útil, no romper nada.
+    </p>
+
+    <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      Para que todo esto no se quede en promesas, preparo pruebas de rendimiento con catálogos de más de 10.000 productos: mido latencia, throughput y tiempos de respuesta, ajusto cuellos de botella y trato de no convertir el ordenador en una tostadora (casi siempre lo consigo).
+    </p>
+
+    <p style="margin: 8px 0; text-align: left; text-indent: 12px;">
+      Aprendo rápido, documento lo suficiente para que mi yo del futuro no me odie y prefiero el código claro al heroísmo nocturno. Si hay que sumar herramientas, JavaScript y Bash me acompañan cuando el camino se pone interesante.
+    </p>
+
+    <p style="margin: 10px 0 0 0; text-align: center; font-style: italic;">
+      Objetivo: soluciones simples que hagan su trabajo sin pedir atención… como el buen café.
+    </p>
+  </div>
+</div>
+<!-- ================================================================================ -->
       Programador de software junior recién salido de un Grado Superior. Java y Python al timón; las demás herramientas se suben a bordo cuando el proyecto lo pide. Me gusta convertir requisitos difusos en resultados medibles y, si es posible, en algo que no explote el viernes por la tarde.
     </p>
 
