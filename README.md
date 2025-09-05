@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Dynamic typing animation with tech stack -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&height=60&lines=🚀+Full-Stack+Developer+%7C+Backend+Specialist;☕+Java+%7C+Python+%7C+C%23+%7C+TypeScript+Master;⚡+SpringBoot+%7C+React+%7C+Docker+%7C+Linux+Expert;🔥+Web+Scraping+%7C+API+Architect+%7C+Database+Guru;🌟+WordPress+Plugins+%7C+Unity+%7C+Android+Studio"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&height=60&lines=🚀+Full-Stack+Developer+%7C+Backend;☕+Java+%7C+Python+%7C+C%23+%7C+TypeScript+Master;⚡+SpringBoot+%7C+React+%7C+Docker+%7C+Linux+Expert;🔥+Web+Scraping+%7C+API+Architect+%7C+Database+Guru;🌟+WordPress+Plugins+%7C+Unity+%7C+Android+Studio"/>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 ```yaml
 name: "Holly Redfield (Álex)"
-role: "Backend Specialist & Full-Stack Developer"
+role: "Backend & Full-Stack Developer"
 location: "Spain 🇪🇸"
 status: "Brewing code with coffee ☕"
 motto: "Code is poetry written in logic"
