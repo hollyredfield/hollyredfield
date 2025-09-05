@@ -37,12 +37,12 @@
 
 ```yaml
 name: "Holly Redfield (Álex)"
-role: "Backend & Full-Stack Developer"
-location: "Spain 🇪🇸"
-status: "Brewing code with coffee ☕"
-motto: "Code is poetry written in logic"
-current_focus: "Building scalable backend systems"
-learning: ["Docker Advanced", "Microservices", "Testing"]
+role: "Desarrollador Backend & Full-Stack"
+location: "España 🇪🇸"
+status: "Preparando código con café ☕"
+motto: "El código es poesía escrita en lógica"
+current_focus: "Construyendo sistemas backend escalables"
+learning: ["Docker Avanzado", "Microservicios", "Testing"]
 ```
 
 **🔮 Philosophy:**  
@@ -205,11 +205,11 @@ const developerMindset = {
 ```mermaid
 graph TD
     A[☕ Coffee] --> B[Backend Mastery]
-    B --> C[Microservices]
-    C --> D[Cloud Native]
-    D --> E[DevOps Culture]
-    E --> F[System Architecture]
-    F --> G[☕ More Coffee]
+    B --> C[Microservicios]
+    C --> D[Nube Nativa]
+    D --> E[Cultura DevOps]
+    E --> F[Arquitectura de Sistemas]
+    F --> G[☕ Más Café]
     
     style A fill:#FF00FF,stroke:#333,stroke-width:3px,color:#fff
     style B fill:#8A2BE2,stroke:#333,stroke-width:2px,color:#fff
