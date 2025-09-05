@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java+%28avanzado%29%2C+Python%2C+Git%2C+C%23%2C+TypeScript;React%2C+SpringBoot%2C+Hibernate%2C+JPA%2C+Lombok;JavaScript%2C+Web+Scraping%2C+Image+Scraping;WordPress+%28plugins%29%2C+Android+Studio%2C+Unity;MySQL%2C+PostgreSQL%2C+PLpgSQL%2C+Supabase;Linux%2C+PowerShell%2C+Batchfile%2C+Odoo;Tailwind+CSS%2C+Vite%2C+HTML%2C+CSS%2C+PHP;Spring+MVC%2C+Thymeleaf%2C+ESLint%2C+Capacitor;El+arte+de+convertir+caf%C3%A9+en+c%C3%B3digo+%F0%9F%8D%B5;T%72ansformando+cafe%C3%ADna+en+c%C3%B3digo+desde+tiempos+inmemoriales" />
+  <!-- Primary tech skills animation -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java+%28avanzado%29%2C+Python%2C+C%23%2C+TypeScript;React%2C+SpringBoot%2C+Hibernate%2C+JPA%2C+Lombok;JavaScript%2C+Web+Scraping%2C+WordPress;Android+Studio%2C+Unity%2C+MySQL%2C+PostgreSQL;Linux%2C+PowerShell%2C+Tailwind+CSS%2C+Vite" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <!-- Dedicated coffee phrase animation to preserve the "T" -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1200&color=F700FF&center=true&vCenter=true&width=900&lines=El+arte+de+convertir+caf%C3%A9+en+c%C3%B3digo+%F0%9F%8D%B5;Transformando+cafe%C3%ADna+en+c%C3%B3digo+desde+tiempos+inmemoriales" />
 </div>
 
 <div align="center">
