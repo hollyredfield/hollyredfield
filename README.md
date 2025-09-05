@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Primary tech skills animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java+%28avanzado%29%2C+Python%2C+C%23%2C+TypeScript;React%2C+SpringBoot%2C+Hibernate%2C+JPA%2C+Lombok;JavaScript%2C+Web+Scraping%2C+WordPress;Android+Studio%2C+Unity%2C+MySQL%2C+PostgreSQL;Linux%2C+PowerShell%2C+Tailwind+CSS%2C+Vite" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=Holly+Redfield+%7C+Desarrollador+Multiplataforma;Java%2C+Python%2C+C%23%2C+TypeScript;React%2C+SpringBoot%2C+Hibernate%2C+JPA%2C+Lombok;JavaScript%2C+Web+Scraping%2C+WordPress;Android+Studio%2C+Unity%2C+MySQL%2C+PostgreSQL;Linux%2C+PowerShell%2C+Tailwind+CSS%2C+Vite" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -289,16 +289,15 @@ const hollyPerfil = {
 </div>
 
 <!-- Diagrama Mermaid de ruta de desarrollo -->
-
 ```mermaid
-graph TD;
-  A[Fundamentos de Backend] --> B[Linux (nivel medio)];
-  A --> D[Frontend básico];
-  B --> E[Scripts y automatización];
-  A --> I[APIs REST];
-  E --> H[Docker (dev)];
-  I --> J[Documentación (OpenAPI)];
-  H --> K[Testing básico];
+graph TD
+  A[Fundamentos de Backend] --> B[Linux nivel medio]
+  A --> D[Frontend básico]
+  B --> E[Scripts y automatización]
+  A --> I[APIs REST]
+  E --> H[Docker dev]
+  I --> J[Documentación OpenAPI]
+  H --> K[Testing básico]
   
   style A fill:#F700FF,stroke:#333,stroke-width:2px,color:white
   style B fill:#6C63FF,stroke:#333,stroke-width:2px,color:white
@@ -476,4 +475,5 @@ graph TD;
 
 </div>
 </div>
+<!-- ================================================================================ -->
 <!-- ================================================================================ -->
